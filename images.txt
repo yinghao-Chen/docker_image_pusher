@@ -5,7 +5,8 @@
 #qianmoq/datacap
 #hslr/sun-panel
 #minio/minio
-openjdk:8u342-jdk
+#openjdk:8u342-jdk
+ubuntu:16.04
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
