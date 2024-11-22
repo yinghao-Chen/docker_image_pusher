@@ -11,7 +11,8 @@
 #vaultwarden/server:latest
 #lissy93/web-check
 #syncthing/syncthing
-ghcr.io/seriousm4x/upsnap:4
+#ghcr.io/seriousm4x/upsnap:4
+gdy666/lucky
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
