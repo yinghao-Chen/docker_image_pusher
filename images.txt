@@ -1,5 +1,5 @@
 #redroid/redroid:11.0.0-latest
-crpi-ewihweek11p6l2rf.cn-shanghai.personal.cr.aliyuncs.com/price_ma/xianyu-replay-fixed:latest
+crpi-ewihweek11p6l2rf.cn-shanghai.personal.cr.aliyuncs.com/price_ma/xianyu-replay-fixed:1.0.6
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
