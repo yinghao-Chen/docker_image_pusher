@@ -1,5 +1,8 @@
 #redroid/redroid:11.0.0-latest
-crpi-ewihweek11p6l2rf.cn-shanghai.personal.cr.aliyuncs.com/price_ma/xianyu-replay-fixed:v1.0.6
+quay.io/coreos/etcd:v3.5.25
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.13
+zilliz/attu:v2.5
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
