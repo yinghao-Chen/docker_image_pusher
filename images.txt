@@ -1,6 +1,4 @@
-vllm/vllm-openai-cpu:latest
-neo4j:5-community
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+wordpress:php8.2-fpm
 
 
 #支持私库
